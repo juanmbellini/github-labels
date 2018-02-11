@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Bug",
+        "color": "ee0701"
+    },
+    {
+        "name": "Chore",
+        "color": "1d76db"
+    },
+    {
+        "name": "Duplicate",
+        "color": "cccccc"
+    },
+    {
+        "name": "Enhancement",
+        "color": "84b6eb"
+    },
+    {
+        "name": "Feature",
+        "color": "0e8a16"
+    },
+    {
+        "name": "Help Wanted",
+        "color": "bfdadc"
+    },
+    {
+        "name": "Invalid",
+        "color": "e6e6e6"
+    },
+    {
+        "name": "Priority: High",
+        "color": "e99695"
+    },
+    {
+        "name": "Priority: Low",
+        "color": "c2e0c6"
+    },
+    {
+        "name": "Priority: Mid",
+        "color": "fef2c0"
+    },
+    {
+        "name": "Question",
+        "color": "cc317c"
+    },
+    {
+        "name": "Version Upgrade",
+        "color": "c5def5"
+    },
+    {
+        "name": "Wontfix",
+        "color": "ffffff"
+    },
+    {
+        "name": "Work In Progress",
+        "color": "fbca04"
+    }
+]
