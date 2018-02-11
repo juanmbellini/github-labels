@@ -1,5 +1,7 @@
 # GitHub Labels
 
+A project containing a file to generate labels for GitHub projects.
+
 ## How do I use it?
 
 1. Install ```npm```.
