@@ -28,6 +28,10 @@
         "color": "e6e6e6"
     },
     {
+        "name": "Merged Into Dev",
+        "color": "5319e7"
+    },
+    {
         "name": "Priority: High",
         "color": "e99695"
     },
