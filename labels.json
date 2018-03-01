@@ -1,5 +1,9 @@
 [
     {
+        "name": "Blocked",
+        "color": "1728c1"    
+    },
+    {
         "name": "Bug",
         "color": "ee0701"
     },
